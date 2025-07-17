@@ -1,4 +1,6 @@
 ## Hi there 👋
+Welcome to my GitHub page! I am Nelia  Fernandes and I am currently working  National Hospital Guido Valadares- Dili as a biomedical technician 
+
 
 <!--
 **neliafernandes/neliafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
