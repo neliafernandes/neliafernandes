@@ -1,9 +1,6 @@
 ## Hi there 👋
 Welcome to my GitHub page! I am Nelia  Fernandes and I am currently working at National Hospital Guido Valadares- Dili as a biomedical technician 
 
-- 🔭 things i am challenging my self with  :
-- Exercising 4 days a week
-- Improving my technical
 
 
 <!--
